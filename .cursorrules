@@ -1,0 +1,44 @@
+# PROJECT OVERVIEW
+
+- explain the project in a few sentencces
+
+# PERSONALITY
+
+- explain the personality of the project in a few sentences
+
+# TECH STACK
+
+- choose a tech stack
+
+# ERROR FIXING PROCESS (optional)
+
+- explain the error fixing process
+
+# BUILDING PROCESS (optional)
+
+- explain the building process
+
+# OUR .env variables
+
+backend/.env
+frontend/.env
+provide Cursor context of **what** env variables there are and **where**
+
+# CURRENT FILE STRUCTURE
+
+tree -L 4 -a -I 'node_modules|.git|**pycache**|.DS_Store|.pytest_cache|.vscode'
+
+# GITHUB PUSH PROCESS
+
+- Tell Cursor the steps to Push to Git/GitHub. You can define if you want new branches too.
+
+# IMPORTANT
+
+- repeat the most important instructions
+
+# OTHER CONTEXT
+
+# COMMENTS
+
+- make sure to ALWAYS include comments in your code
+- do not delete comments unless they are no longer needed
